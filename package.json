@@ -1,0 +1,28 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "В этом репозитории я начала изучение библиотеки GraphQL в React для внедрения в свою программу.\r Источники\r 1. Ютюб https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daskendrik/learning_graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daskendrik/learning_graphql/issues"
+  },
+  "homepage": "https://github.com/Daskendrik/learning_graphql#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
