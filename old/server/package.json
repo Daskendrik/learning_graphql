@@ -2,9 +2,7 @@
   "name": "graphql",
   "version": "1.0.0",
   "description": "В этом репозитории я начала изучение библиотеки GraphQL в React для внедрения в свою программу.\r Источники\r 1. Ютюб https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server/app.js"
   },
   "repository": {
